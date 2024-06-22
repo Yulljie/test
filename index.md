@@ -8,7 +8,7 @@
 
 ## Status
 
-    Building
+    Syncing
 
 ## Read
 （轻触左上角菜单按钮查看目录）

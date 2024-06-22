@@ -1,10 +1,13 @@
-# 在本地获取本文
+# 得本文于本地之法
 
-## 方法一：克隆本站
+## 法一：克隆本站
 
     git clone https://github.com/Yulljie/CattleEatsGrass.git
 
-## 方法二：构建
+## 法二：构建
+
+<i>（有误，等待修正）</i>
+
 1. 安装python    
     - Arch linux：  
 
